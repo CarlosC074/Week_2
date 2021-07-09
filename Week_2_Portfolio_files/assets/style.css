@@ -13,7 +13,7 @@ header {
     flex-direction: row-reverse;
 }
 
-button {
+.nav_button {
     background-color: rgb(104, 104, 230);
     border: black;
     margin: 20px;
@@ -53,7 +53,6 @@ p {
 
  h2 {
     Border-bottom: 2px;
-
 }
 
 
