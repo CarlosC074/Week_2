@@ -5,3 +5,34 @@ header {
     font-size: 48pt;
     font-family: monospace;
 }
+
+.nav_bar {
+    background-color: rgb(104, 104, 230);
+    padding:20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+button {
+    background-color: rgb(104, 104, 230);
+    border: black;
+    border-width: 15px;
+}
+
+.primary_navigation ul {
+    list-style-type: none;
+}
+
+.nav_tabs a {
+    font-size: 24pt;
+    color: white;
+    text-decoration: none;
+}
+
+.nav_tabs {
+    display: inline-block;
+}
+
+ a  a:hover, a:focus, a:active {
+    text-decoration: none;
+}
