@@ -16,7 +16,7 @@ header {
 button {
     background-color: rgb(104, 104, 230);
     border: black;
-    border-width: 15px;
+    margin: 20px;
 }
 
 .primary_navigation ul {
@@ -36,3 +36,18 @@ button {
  a  a:hover, a:focus, a:active {
     text-decoration: none;
 }
+
+#Disney_2018 img{
+    width: 33%;
+    height: auto;
+
+}
+
+h1 {
+    font-size: 48pt;
+}
+
+p {
+    font-size: 16pt;
+}
+
